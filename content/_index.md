@@ -5,17 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown #hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        TanX Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **TanX-Lab** is a research group dedicated to advancing mechanical engineering and its applications in medicine. Our team investigates interdisciplinary problems at the interface of engineering and medicine, including drug delivery, circulating tumor cell detection, microfluidic device design, and thrombosis. We have developed an open-source large scale high performance computing framework for blood modeling consideirng the fluid solid interactions. 
+
+        Our current research focuses on **physics-informed machine learning, multiscale modeling of blood flow, and inverse problems for design and optimization**.
   
   - block: collection
     content:
@@ -33,7 +34,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact #card
       columns: '1'
   
   - block: markdown
@@ -56,18 +57,18 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest Preprints
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article'
+  #   design:
+  #     view: citation
+  #     columns: '1'
 
   - block: markdown
     content:

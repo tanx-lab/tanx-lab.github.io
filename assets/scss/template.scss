@@ -7,3 +7,29 @@
 .cta-group {
   justify-content: center;
 }
+
+// /* Limit "Latest" lists (article-widget) to show only the first 5 items.
+//    This is a visual, CSS-only limit: items remain in the DOM (for SEO/accessibility)
+//    but are hidden from view. If you want a server-side limit, we'd adjust the
+//    template that renders the list. */
+// .article-widget ul {
+//   margin: 0;
+//   padding-left: 1rem;
+// }
+// .article-widget ul li:nth-child(n+6) {
+//   display: none;
+// }
+
+
+// /* Optional: style for a 'show more' link if you later add one after the list */
+// .article-widget .show-more {
+//   display: inline-block;
+//   margin-top: .5rem;
+// }
+
+/* Disable the entire article-widget visually across the site. This hides
+   the widget but doesn't remove it from generated HTML. If you prefer to
+   remove it server-side, we can override the theme template instead. */
+// .article-widget {
+//   display: none !important;
+// }

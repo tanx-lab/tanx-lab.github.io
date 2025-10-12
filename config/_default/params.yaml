@@ -6,10 +6,13 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: minimal #forest #ocean #
+  theme_night: hacker #minimal_dark #
+  mode: auto
   font: native
   font_size: L
+
+  
 
 # SEO
 
@@ -45,11 +48,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} The TanX Laboratory' #'. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false #true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false #true
       allow_commercial: false
 
 # Localization
