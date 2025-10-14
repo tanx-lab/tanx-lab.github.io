@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: TanX-lab # Website name
-baseURL: 'tanx-lab.github.io' # Website URL
+baseURL: 'http://tanx-lab.github.io' # Website URL
 
 ############################
 ## LANGUAGE
@@ -21,7 +21,11 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+# paginate: 10
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
