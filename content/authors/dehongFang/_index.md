@@ -82,5 +82,5 @@ social:
 user_groups:
   - Alumni
 ---
-MS, Northern Illinois University, 2020-2022
+<!-- MS, Northern Illinois University, 2020-2022 -->
 <!-- Jifu Tan is an assistant professor in the department of Mechanical Engineering at Binghamton University. His research interests include Multiphysics modeling, High Performance Computing, and Physics based Deep Learning with applications to the interdisciplinary field of engineering and medicine. -->

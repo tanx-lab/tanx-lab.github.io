@@ -6,11 +6,45 @@ type: landing
 
 
 sections:
+  - block: markdown
+    content:
+      title: Join Our Group
+      #subtitle: "More details below"
+      text: |
+        
+        We are always looking for **motivated and talented students** to join our research group. Opportunities are available for **Ph.D.**, **Master’s**, and **Undergraduate** students.
+
+        ---
+
+        ### 🧠 Ph.D. Students
+
+        Successful applicants will receive a **full scholarship**  covering **tuition** and a **monthly stipend**.  In addition, they have the opportunities to collaborate with scientists from the Argonne National Laboratories. 
+
+        **Expectations:**  
+        - Strong background in fluid/solid mechanics, heat/mass transfer, applied mathematics, or computational modeling
+        - Experience with numerical methods (FEM, CFD, Molecular Dynamics, Machine Learning, etc.) and programming (Python/Matlab, C/C++, FEniCSx/Dealii/MFEM/MOOSE etc.)  
+        - High motivation and curiosity for scientific research  
+
+        ---
+
+        ### ⚙️ Master’s Students or 🔬 Undergraduate Students
+
+        We encourage master’s and undergraduate students to explore research opportunities in our group. You will gain valuable experience in advanced computing and problem-solving that extends beyond regular coursework, helping you build strong foundations for future research or professional careers.
+
+        ---
+
+        ### How to Apply 
+        Please contact the PI with your **CV**, **transcript**, and a brief statement of your research interests.  If you are currently at Binghamton University, you are always encouraged to stop by Dr. Tan's office or send him an email. 
+
+    design:
+      columns: "1"
+      # background:
+      #   color: "white"
   - block: contact
     content:
-      title: Contact
+      title: #Contact
       text: 
-        Our lab is located in Engineering Science Building (ES) 1502, ITC.
+        Our lab is located in Engineering Science Building (ES) 1502, ITC. Dr. Tan's office is located at ES 1331.
       email: jifutan [AT] binghamton [DOT] edu 
       phone: (607)777-4981
       address:

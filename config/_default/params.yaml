@@ -7,12 +7,11 @@
 
 appearance:
   theme_day: minimal #forest #ocean #
-  theme_night: hacker #minimal_dark #
+  theme_night: minimal #minimal_dark #
   mode: auto
   font: native
   font_size: L
 
-  
 
 # SEO
 
