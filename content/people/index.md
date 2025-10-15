@@ -15,6 +15,7 @@ sections:
           - Researchers
           - PhD Students
           - Grad Students
+          - Undergraduate
           - Administration
           - Alumni
       sort_by: Params.last_name
