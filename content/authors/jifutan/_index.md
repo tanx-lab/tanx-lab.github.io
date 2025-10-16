@@ -7,7 +7,7 @@ first_name: Jifu
 last_name: Tan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false # true
 
 # Role/position
 role: Assistant Professor in Mechanical Engineering
@@ -76,4 +76,4 @@ user_groups:
 
 ---
 
-Jifu Tan is an assistant professor in the department of Mechanical Engineering at Binghamton University. His research interests include Multiphysics modeling, High Performance Computing, and Physics informed Machine Learning with applications to the interdisciplinary field of engineering and medicine.
+Jifu Tan (檀,基福) is an assistant professor in the department of Mechanical Engineering at Binghamton University. His research interests include Multiphysics modeling, High Performance Computing, and Physics informed Machine Learning with applications to the interdisciplinary field of engineering and medicine. Previously  he was an assistant professor and then promoted to associate professor at Northern Illinois University (NIU). Before that he was a postdoc at Prof. Scott Diamond's Lab at the University of Pennsylvania. 
