@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bojian Qu
+title: Sai Kireeti Chaganti
 
 # Full Name (for SEO)
-first_name: Bojian
-last_name: Qu
+first_name: Sai Kireeti
+last_name: Chaganti
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: MS in Mechanical Engineering
-      institution: KTH Royal Institute of Technology
-      year: 2023
+    - course: MS in Aerospace Engineering
+      institution: North Carolina State University
+      year: 2025
     - course: BSc in Mechanical Engineering
-      institution: Beijing Jiaotong University
-      year: 2019
+      institution: Vellore Institute of Technology
+      year: 2023
 
 # # Social/Academic Networking
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bqu1@binghamton.edu'
+    link: 'mailto:schaganti1@binghamton.edu '
 #   # - icon: twitter
 #   #   icon_pack: fab
 #   #   link: https://twitter.com/GeorgeCushen

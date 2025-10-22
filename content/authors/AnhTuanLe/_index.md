@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bojian Qu
+title: Anh Tuan Le
 
 # Full Name (for SEO)
-first_name: Bojian
-last_name: Qu
+first_name: Anh Tuan
+last_name: Le
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: MS in Mechanical Engineering
-      institution: KTH Royal Institute of Technology
+    - course: MS in Aerospace Engineering
+      institution: Bandung Institute of Technology
+      year: 2025
+    - course: BSc in Aerospace Engineering
+      institution: Vietnam National University
       year: 2023
-    - course: BSc in Mechanical Engineering
-      institution: Beijing Jiaotong University
-      year: 2019
 
 # # Social/Academic Networking
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bqu1@binghamton.edu'
+    link: 'mailto:ltuan@binghamton.edu'
 #   # - icon: twitter
 #   #   icon_pack: fab
 #   #   link: https://twitter.com/GeorgeCushen
@@ -59,7 +59,7 @@ social:
 # #   link: files/cv.pdf
 
 # # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ''
+# email: 'ltuan@binghamton.edu'
 
 # # Highlight the author in author lists? (true/false)
 # highlight_name: false

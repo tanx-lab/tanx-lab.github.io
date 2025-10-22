@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Connor Murphy
+title: Ryan Mueller
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,11 +21,11 @@ role: Bsc.
 # - Granular Flow
 # - In situ visualization
 
-# education:
-#   courses:
-#   - course: BS in Mechanical Engineering
-#     institution: Northern Illinois University 
-#     year: 2022
+education:
+  courses:
+  - course: BS in Mechanical Engineering
+    institution: Northern Illinois University 
+    year: 2024
   
 
 # # Social/Academic Networking
@@ -40,10 +40,10 @@ social:
 
 - icon: github
   icon_pack: fab
-  link: https://github.com/Mectr0
+  link: https://github.com/RyanMuellerNIU
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/connor-murphy-78b80b171/
+  link: https://www.linkedin.com/in/ryan-mueller-594621198
 # # Link to a PDF of your resume/CV from the About widget.
 # # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # # - icon: cv
@@ -62,7 +62,7 @@ user_groups:
 - Alumni
 ---
 
-Connor Murphy is an undergraduate mechanical engineering student at Northern Illinois University. He is a research aide under Dr. Jifu Tan and Dr. Nicholas Pohlman of NIU. His research interests include simulation of granular flows as well as implementation of in situ visualization and analysis for blood flow simulation.
+Ryan Mueller is an undergraduate mechanical engineering student at Northern Illinois University. He is a research aide under Dr. Jifu Tan on clot mechanics. 
 
  
 
