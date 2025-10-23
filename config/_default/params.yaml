@@ -11,7 +11,12 @@ appearance:
   mode: auto
   font: native
   font_size: L
-
+  logo:
+      # Path relative to assets/media/
+      image: "logo.png"
+      # Optional: set logo size
+      # width: 40
+      # height: 40
 
 # SEO
 
@@ -35,6 +40,11 @@ marketing:
 
 header:
   navbar:
+    # logo:
+    #   image: "icon.png"
+    #   # filename: "icon.png"
+    #   text: "TanX Lab"
+    #   height: 40  # optional
     enable: true
     align: r
     show_logo: true

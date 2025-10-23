@@ -6,7 +6,7 @@ title: Mikayla Dirksen
 superuser: false
 
 # Role/position
-role: Bsc.
+role: BSc.
 
 # Organizations/Affiliations
 # organizations:

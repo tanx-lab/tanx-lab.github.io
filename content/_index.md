@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
 type: landing
 
@@ -78,8 +78,8 @@ sections:
     content:
       title: |
         The TanX Laboratory at Binghamton University
-      image:
-        filename: watson.jpg
+      # image:
+      #   filename: watson.jpg
       text: |
 
     design:
@@ -96,13 +96,13 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-      vertical_alignment: bottom 
+      # vertical_alignment: bottom 
   - block: markdown #hero
     content:
       title: |
         TanX Lab
-      image:
-        filename: watson.jpg
+      # image:
+      #   filename: watson.jpg
       text: |
       
         
