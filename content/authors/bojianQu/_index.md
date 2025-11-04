@@ -18,20 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: #Jifu Tan, Ph.D.
+bio: Bojian Qu, M.Sc.
 
 interests:
-  #- Fluid Structure Interactions
-  #- Physics Based Deep Learning
-  #- Transpot Phenomena
-  #- High Performance Computing
+  - Scientific Machine Learning
+  - Computational Physics
+  - Statistical Inference
+  - High Performance Computing
+
 
 education:
   courses:
-    - course: MS in Mechanical Engineering
+    - course: M.Sc. in Mechanical Engineering
       institution: KTH Royal Institute of Technology
       year: 2023
-    - course: BSc in Mechanical Engineering
+    - course: B.Eng. in Mechanical Engineering
       institution: Beijing Jiaotong University
       year: 2019
 
@@ -42,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bqu1@binghamton.edu'
+    link: 'mailto:bojian.qu@binghamton.edu'
 #   # - icon: twitter
 #   #   icon_pack: fab
 #   #   link: https://twitter.com/GeorgeCushen
