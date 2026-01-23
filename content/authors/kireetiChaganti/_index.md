@@ -10,7 +10,7 @@ last_name: Chaganti
 superuser: false
 
 # Role/position
-role: PhD student 
+role: Graduate student 
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ social:
 # # Organizational groups that you belong to (for People widget)
 # #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 <!-- Jifu Tan is an assistant professor in the department of Mechanical Engineering at Binghamton University. His research interests include Multiphysics modeling, High Performance Computing, and Physics based Deep Learning with applications to the interdisciplinary field of engineering and medicine. -->
