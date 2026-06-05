@@ -23,7 +23,7 @@ bio: Jifu Tan, Ph.D.
 interests:
   - Fluid Structure Interactions
   - Physics Informed Machine Learning
-  - Transpot Phenomena
+  - Transport Phenomena
   - High Performance Computing
 
 

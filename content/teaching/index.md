@@ -17,7 +17,7 @@ sections:
         
 
         ### Binghamton University
-        - **Fundamentals of Energy Transport** — Spring 2025  
+        - **Fundamentals of Energy Transport** — Spring 2025, Spring 2026  
         - **Matlab Programming** — Fall 2024  
 
         ### Northern Illinois University

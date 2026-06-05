@@ -71,4 +71,5 @@ user_groups:
   - PhD Students
 ---
 
-<!-- Jifu Tan is an assistant professor in the department of Mechanical Engineering at Binghamton University. His research interests include Multiphysics modeling, High Performance Computing, and Physics based Deep Learning with applications to the interdisciplinary field of engineering and medicine. -->
+Bojian Qu currently works on Scientific Machine Learning with external collaborations with [**Dr. Hong Zhang**](https://www.anl.gov/profile/hong-zhang) from Argonne National Laboratory. 
+
